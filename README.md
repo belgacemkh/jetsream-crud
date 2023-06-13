@@ -1,2 +1,2 @@
-## Laravel 10 jetstream auth using livewire
-Laravel 10 jetstream auth using livewire
+## Livewire CRUD With Jetstream And Tailwind CSS
+Livewire CRUD With Jetstream And Tailwind CSS
